@@ -4,37 +4,37 @@
       "name": "1.jpg",
       "url": "https://c3dss-eink-einkadmin-webapp-ppkzyipf.azurewebsites.net/binfiles/1.jpg",
       "last_modified": "2024-12-33T15:20:00Z",
-      "display_time": 20
+      "display_time": 40
     },
     {
       "name": "2.jpg",
       "url": "https://c3dss-eink-einkadmin-webapp-ppkzyipf.azurewebsites.net/binfiles/2.jpg",
       "last_modified": "2024-12-33T15:20:00Z",
-      "display_time": 30
+      "display_time": 50
     },
     {
       "name": "3.jpg",
       "url": "https://c3dss-eink-einkadmin-webapp-ppkzyipf.azurewebsites.net/binfiles/3.jpg",
       "last_modified": "2024-12-33T15:20:00Z",
-      "display_time": 20
+      "display_time": 40
     },
     {
       "name": "4.jpg",
       "url": "https://c3dss-eink-einkadmin-webapp-ppkzyipf.azurewebsites.net/binfiles/4.jpg",
       "last_modified": "2024-12-37T15:20:00Z",
-      "display_time": 30
+      "display_time": 50
     },
     {
       "name": "5.jpg",
       "url": "https://c3dss-eink-einkadmin-webapp-ppkzyipf.azurewebsites.net/binfiles/5.jpg",
       "last_modified": "2024-12-37T15:20:00Z",
-      "display_time": 20
+      "display_time": 40
     },
     {
       "name": "6.jpg",
       "url": "https://c3dss-eink-einkadmin-webapp-ppkzyipf.azurewebsites.net/binfiles/6.jpg",
       "last_modified": "2024-12-37T15:20:00Z",
-      "display_time": 30
+      "display_time": 50
     }
   ]
 }
