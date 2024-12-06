@@ -29,6 +29,18 @@
       "url": "https://c3dss-eink-einkadmin-webapp-ppkzyipf.azurewebsites.net/binfiles/5.jpg",
       "last_modified": "2024-12-35T15:20:00Z",
       "display_time": 40
+    },
+    {
+      "name": "6.jpg",
+      "url": "https://c3dss-eink-einkadmin-webapp-ppkzyipf.azurewebsites.net/binfiles/6.jpg",
+      "last_modified": "2024-12-35T15:20:00Z",
+      "display_time": 40
+    },
+    {
+      "name": "7.jpg",
+      "url": "https://c3dss-eink-einkadmin-webapp-ppkzyipf.azurewebsites.net/binfiles/7.jpg",
+      "last_modified": "2024-12-35T15:20:00Z",
+      "display_time": 40
     }
   ]
 }
